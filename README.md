@@ -5,7 +5,8 @@ The objective was to implement Tikhonov regularization (a.k.a. ridge regression)
 
 # Files
 
-* final.aux, final.tox, final.synctex.gz, final.log, final - TeX generated files
+* final.aux, final.tox, final.synctex.gz, final.log - TeX generated files
+* final.tex - TeX report
 * final.pdf - PDF report
 * images/ - folder for algorithm generated images
 * tikhonov.m - MATLAB algorithm code
